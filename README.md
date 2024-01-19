@@ -186,6 +186,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://homestyler.com](https://homestyler.com/) : Design your dream home in 3D.
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
+* [https://humanornot.co](https://humanornot.co/) : The place to find and learn about AI
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
